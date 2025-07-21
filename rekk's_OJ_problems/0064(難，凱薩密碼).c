@@ -34,7 +34,6 @@ void cipherChanger(char str[], long long int k) {
     } 
 }
 
-
 // 主程式代碼
 int main() {
 	long long int k; // k 有可能超出 int 範圍
