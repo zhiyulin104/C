@@ -2,6 +2,7 @@
 # include <stdio.h> // 輸入輸出
 # define MAX_L 600 // 限制最大長度
 
+
 // 宣告 "加密機器"
 void cipherChanger(char[], long long int); 
 
