@@ -2,7 +2,7 @@
 *.exe
 *.dll
 *.log
-*.tmp
+# *.tmp
 
 # Ignore Visual Studio Code settings
 .vscode/
