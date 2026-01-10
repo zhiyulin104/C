@@ -1,6 +1,8 @@
 # Ignore files 
 *.exe
 *.dll
+*.log
+*.tmp
 
 # Ignore Visual Studio Code settings
 .vscode/
